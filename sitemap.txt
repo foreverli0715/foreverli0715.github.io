@@ -1,4 +1,4 @@
-http://example.com/link/index.html
+http://example.com/links/index.html
 http://example.com/categories/index.html
 http://example.com/2022/09/30/hello-world/
 http://example.com/
